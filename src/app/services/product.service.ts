@@ -14,7 +14,7 @@ export class CardproductService {
   getProducts(name: string | null){
     const params: Params = {}
 
-    if(name){
+    if(name && name.length >= 4){
       params['name_like'] = name
     }
     return this.http.get<Cardproduct[]>(this.API_URL , {params})

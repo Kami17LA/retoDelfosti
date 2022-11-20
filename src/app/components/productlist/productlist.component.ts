@@ -30,7 +30,9 @@ export class ProductlistComponent implements OnInit {
     .subscribe((res) => {
       console.log(res , "otro");
       this.cards = [];
+
       this.searchProduct(res?.toLocaleLowerCase())
+
     })
 
     this.searchProduct()

@@ -2,103 +2,103 @@
   "products": [
     {
       "id":1,
-      "name": "Python",
-      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+      "name": "Lapicero",
+      "slug": "https://cdn-icons-png.flaticon.com/512/1954/1954069.png"
     },
     {
       "id":2,
-      "name": "C",
-      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+      "name": "Cuaderno",
+      "slug": "https://cdn-icons-png.flaticon.com/512/3277/3277345.png"
     },
     {
       "id":3,
-      "name": "Java",
-      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+      "name": "Libro",
+      "slug": "https://cdn-icons-png.flaticon.com/512/2232/2232688.png"
     },
     {
       "id":4,
-      "name": "C++",
-      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.."
+      "name": "Goma",
+      "slug": "https://cdn-icons-png.flaticon.com/512/2383/2383025.png"
     },
     {
       "id":5,
-      "name": "C#",
-      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ."
+      "name": "Borrador",
+      "slug": "https://cdn-icons-png.flaticon.com/512/8968/8968096.png"
     },
     {
       "id":6,
-      "name": "Visual Basic",
-      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ons of Lorem Ipsum."
+      "name": "Hojas bond",
+      "slug": "https://cdn-icons-png.flaticon.com/512/29/29343.png"
     },
     {
       "id":7,
-      "name": "JavaScript",
-      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. em Ipsum."
+      "name": "Plumones",
+      "slug": "https://cdn-icons-png.flaticon.com/512/3094/3094165.png"
     },
     {
       "id":8,
-      "name": "Assembly language",
-      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lrem Ipsum."
+      "name": "Crayola",
+      "slug": "https://cdn-icons-png.flaticon.com/512/2219/2219189.png"
     },
     {
       "id":9,
-      "name": "SQL",
-      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.em Ipsum."
+      "name": "Tijera",
+      "slug": "https://cdn-icons-png.flaticon.com/512/2542/2542051.png"
     },
     {
       "id":10,
-      "name": "PHP",
-      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Ipsum."
+      "name": "Cartulina",
+      "slug": "https://cdn-icons-png.flaticon.com/512/2979/2979590.png"
     },
     {
       "id":11,
-      "name": "Delphi",
-      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. psum."
+      "name": "Papelote",
+      "slug": "https://cdn-icons-png.flaticon.com/512/737/737804.png"
     },
     {
       "id":12,
-      "name": "Swift",
-      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.  Ipsum."
+      "name": "Tarjador",
+      "slug": "https://cdn-icons-png.flaticon.com/512/3237/3237990.png"
     },
     {
       "id":13,
-      "name": "HTML",
-      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum."
+      "name": "Clips",
+      "slug": "https://cdn-icons-png.flaticon.com/512/2985/2985869.png"
     },
     {
       "id":14,
-      "name": "CSS",
-      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.um."
+      "name": "Calculadora",
+      "slug": "https://cdn-icons-png.flaticon.com/512/548/548353.png"
     },
     {
       "id":15,
-      "name": "Classic Visual Basic",
-      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.sum."
+      "name": "Folder",
+      "slug": "https://cdn-icons-png.flaticon.com/512/3767/3767084.png"
     },
     {
       "id":16,
-      "name": "Objective-C",
-      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.orem Ipsum."
+      "name": "Laptop",
+      "slug": "https://cdn-icons-png.flaticon.com/512/689/689355.png"
     },
     {
       "id":17,
-      "name": "Perl",
-      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.um."
+      "name": "Portafolio",
+      "slug": "https://cdn-icons-png.flaticon.com/512/3720/3720999.png"
     },
     {
       "id":18,
-      "name": "Lua",
-      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. m."
+      "name": "Post it",
+      "slug": "https://cdn-icons-png.flaticon.com/512/1587/1587478.png"
     },
     {
       "id":19,
-      "name": "Ruby",
-      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. m."
+      "name": "Reglas",
+      "slug": "https://cdn-icons-png.flaticon.com/512/8719/8719708.png"
     },
     {
       "id":20,
-      "name": "MATLAB",
-      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. m."
+      "name": "Mochila",
+      "slug": "https://cdn-icons-png.flaticon.com/512/5220/5220701.png"
     }
   ]
 }
