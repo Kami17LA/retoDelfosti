@@ -10,6 +10,17 @@ Este proyecto fue creado para las personas amantes de los utiles escolares, dond
 
 
 ## Vista del proyecto
+
+### Vista inicial
+
 ![Imagen 1](img1.png)
+
+
+### Busquemos el primer producto
+
 ![Imagen 2](img2.png)
+
+### Busquemos el segundo producto
+
+![Imagen 3](img3.png)
 
