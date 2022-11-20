@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id":1,
+      "name": "Python",
+      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "id":2,
+      "name": "C",
+      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+    },
+    {
+      "id":3,
+      "name": "Java",
+      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "id":4,
+      "name": "C++",
+      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.."
+    },
+    {
+      "id":5,
+      "name": "C#",
+      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ."
+    },
+    {
+      "id":6,
+      "name": "Visual Basic",
+      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ons of Lorem Ipsum."
+    },
+    {
+      "id":7,
+      "name": "JavaScript",
+      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. em Ipsum."
+    },
+    {
+      "id":8,
+      "name": "Assembly language",
+      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lrem Ipsum."
+    },
+    {
+      "id":9,
+      "name": "SQL",
+      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.em Ipsum."
+    },
+    {
+      "id":10,
+      "name": "PHP",
+      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Ipsum."
+    },
+    {
+      "id":11,
+      "name": "Delphi",
+      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. psum."
+    },
+    {
+      "id":12,
+      "name": "Swift",
+      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.  Ipsum."
+    },
+    {
+      "id":13,
+      "name": "HTML",
+      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum."
+    },
+    {
+      "id":14,
+      "name": "CSS",
+      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.um."
+    },
+    {
+      "id":15,
+      "name": "Classic Visual Basic",
+      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.sum."
+    },
+    {
+      "id":16,
+      "name": "Objective-C",
+      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.orem Ipsum."
+    },
+    {
+      "id":17,
+      "name": "Perl",
+      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.um."
+    },
+    {
+      "id":18,
+      "name": "Lua",
+      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. m."
+    },
+    {
+      "id":19,
+      "name": "Ruby",
+      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. m."
+    },
+    {
+      "id":20,
+      "name": "MATLAB",
+      "slug": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. m."
+    }
+  ]
+}

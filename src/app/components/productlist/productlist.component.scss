@@ -1,0 +1,20 @@
+.list{
+  width: 80%;
+  margin: auto;
+  margin-top: 2rem;
+}
+
+/* igual a cards */
+.cards-grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+  gap: 0.5rem;
+  margin-top: 2rem;
+  background-color:  #1D90CE;
+
+}
+
+.control-pages{
+  color: bisque;
+  font-size: 1.5rem;
+}

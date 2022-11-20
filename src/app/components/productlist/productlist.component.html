@@ -1,0 +1,15 @@
+<div class="list">
+
+  <input
+    class = "from-control"
+    type = "text"
+    placeholder="Buscar un producto ..."
+    [formControl]="cardText" >
+
+    <div class="cards-grid">
+      <app-card *ngFor="let card of cards | paginate: { itemsPerPage: 5, currentPage: page }" [cardproduct]="card" ></app-card>
+    </div>
+
+</div>
+
+<pagination-controls class= "control-pages" (pageChange)="page = $event"  previousLabel="Previous" nextLabel="Next"></pagination-controls>
